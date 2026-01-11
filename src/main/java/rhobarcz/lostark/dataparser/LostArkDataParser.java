@@ -1,4 +1,4 @@
-package rhobarcz.lostarkdataparser;
+package rhobarcz.lostark.dataparser;
 
 /**
  *
